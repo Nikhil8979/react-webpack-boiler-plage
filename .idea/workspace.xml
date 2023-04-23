@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d127f867-e61a-4799-b327-db93f330dfdd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2NQKLDZqwRkZpgEyTapIZb67PEh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wfh-work/services-4-home-backend/services-4-home-backend" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\nikhil-work\react-frontend-webpack-nodeboiler-plate\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d127f867-e61a-4799-b327-db93f330dfdd" name="Default Changelist" comment="" />
+      <created>1679590807835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679590807835</updated>
+      <workItem from="1679590811696" duration="28678000" />
+      <workItem from="1679801270812" duration="21000" />
+      <workItem from="1679801303139" duration="15773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1679740012344">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1679740012344" />
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom" timestamp="1679844258355">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1679844258355" />
+    <state width="1493" height="236" key="GridCell.Tab.0.center" timestamp="1679844258355">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1679844258355" />
+    <state width="1493" height="236" key="GridCell.Tab.0.left" timestamp="1679844258355">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1679844258355" />
+    <state width="1493" height="236" key="GridCell.Tab.0.right" timestamp="1679844258355">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1679844258355" />
+    <state x="490" y="150" width="540" height="524" key="StructurePopup" timestamp="1679827628551">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="490" y="150" width="540" height="524" key="StructurePopup/0.0.1536.816@0.0.1536.816" timestamp="1679827628551" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1679817969734">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1679817969734" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1679747916450">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1679747916450" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="javascript">
+          <url>file://$PROJECT_DIR$/src/router/PrivateRoute.jsx</url>
+          <line>2</line>
+          <log-expression expression="import {Navigate, Outlet} from 'react-router-dom'&#10;import {useCurrentUser} from &quot;../hooks/user&quot;;&#10;import {useSelector} from &quot;react-redux&quot;;&#10;" language="JSX Harmony" />
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
